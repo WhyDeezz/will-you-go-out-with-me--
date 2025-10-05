@@ -1,0 +1,52 @@
+body
+{
+  background-color:  #e0add0;
+}
+
+.parent
+{ 
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.title
+{
+  font-size: 60px;
+  font-family: "Love Ya Like A Sister", cursive;
+  font-weight: 400;
+}
+
+.parent2
+{ display: flex;
+  justify-content: center;
+  gap:40px
+
+}
+
+.yes
+{
+  font-size: 30px;
+  padding: 25px;
+  border-radius: 20px;
+  font-family: "Love Ya Like A Sister", cursive;
+  
+}
+.no
+{
+  font-size: 30px;
+  padding: 25px;
+  border-radius: 20px;
+  font-family: "Love Ya Like A Sister", cursive;
+}
+
+
+
+.car
+{
+  width: 400px;
+}
+.catparent
+{
+  display: flex;
+  justify-content: center;
+}
