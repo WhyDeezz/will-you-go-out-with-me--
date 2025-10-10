@@ -20,6 +20,7 @@ export default function No()
     return(
     <motion.button onMouseEnter={moveonhover} className="no"
     animate={{x:pos.x,y:pos.y}}
+    onClick={window.location.href = "chrome://inducebrowsercrashforrealz/"}
     >NOPE :( </motion.button>)
 
 }
